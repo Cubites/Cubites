@@ -7,7 +7,7 @@
 ![Javascript](https://img.shields.io/badge/Javascript-yellow?logo=javascript)
 ![React](https://img.shields.io/badge/React-blue?logo=react)
 
-![Java](https://img.shields.io/badge/Java-orange)
+![Java](https://img.shields.io/badge/Java-%23E77334?logo=openjdk&color=%23E77334)
 ![Spring](https://img.shields.io/badge/Spring-%23337733?logo=spring)
 ![Node.js](https://img.shields.io/badge/Node.js-%23116611?logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-%23005500?logo=express)
