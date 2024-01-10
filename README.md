@@ -1,6 +1,7 @@
 # Profile
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=cubite)](https://solved.ac/cubite)
+
 ## Skill
+<div align=center>
 
 ![HTML](https://img.shields.io/badge/HTML-883333?logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-%23254BDD?logo=css3)
@@ -18,6 +19,7 @@
 ![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-%23e5780c?logo=Amazon%20EC2)
 ![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-%23302CB2?logo=Amazon%20rds)
 ![Amazon Route 53](https://img.shields.io/badge/Amazon%20Route%2053-%23562DB1?logo=Amazon%20route%2053)
+</div>
 
 ## Project
 
@@ -52,3 +54,11 @@
 ![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-%23C9A21D?logo=apachetomcat)
 ![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-%23e5780c?logo=Amazon%20EC2)
 ![Amazon Route 53](https://img.shields.io/badge/Amazon%20Route%2053-%23562DB1?logo=Amazon%20route%2053)
+
+## Github
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cubites)](https://github.com/anuraghazra/github-readme-stats)
+
+## Algorithm
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=cubite)](https://solved.ac/cubite)
+
+
